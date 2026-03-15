@@ -2,7 +2,7 @@
 
 A beautifully simple, full-stack Task Management application built to master the fundamentals of the MERN stack. 
 
-This project was built from scratch as a learning journey into full-stack development, created collaboratively by **Abhijeeth** and **Antigravity** (an AI coding assistant from Google DeepMind).
+This project was built from scratch as a learning journey into full-stack development, created collaboratively by **Me** and **Antigravity** (an AI coding assistant from Google DeepMind).
 
 ---
 
