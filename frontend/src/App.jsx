@@ -5,7 +5,7 @@ import TaskList from './components/TaskList';
 import './App.css'; // Import global styles
 
 // Define the base URL for our backend API
-const API_URL = 'http://localhost:5000/api/tasks';
+const API_URL = 'https://task-manager-using-mern.onrender.com';
 
 function App() {
   const [tasks, setTasks] = useState([]);
